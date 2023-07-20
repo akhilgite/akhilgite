@@ -6,6 +6,14 @@ I have a passion for mobile application development and love creating innovative
 
 My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ufukhawk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ufukhawk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ufukhawk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ufukhawk&icon=0&color=8)](https://visitcount.itsvg.in)
+
 <!--
 **akhilgite/akhilgite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
