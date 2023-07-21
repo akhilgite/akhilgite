@@ -7,7 +7,7 @@ I have a passion for mobile application development and love creating innovative
 My expertise includes developing custom UI components, integrating REST APIs, Firebase, and SQLite databases, and optimizing application performance. I have a good understanding of Git version control and follow best practices to ensure clean, maintainable, and well-documented code.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-gite-83148458/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://www.google.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://www.google.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@batcodes1690) 
 
 # 💻 Tech Stack:
